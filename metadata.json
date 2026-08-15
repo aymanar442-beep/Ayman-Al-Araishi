@@ -1,0 +1,6 @@
+{
+  "name": "SHAHEEN",
+  "description": "SHAHEEN - High-performance secure trading engine and monitoring control center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
